@@ -1,0 +1,8 @@
+{
+	"stack_key": "",
+	"stack_api": "https://api.stackexchange.com/2.2/search/advanced?",
+	"slack_hook": "",
+	"sites": ["stackoverflow"],
+	"searches": ["declaredesign"],
+	"days_to_search": 7
+}
